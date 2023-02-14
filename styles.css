@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    
+    justify-content: space-around;
+}   
+ li {
+    list-style-type: none;
+    display:flex;
+    flex-direction: row;
+}
